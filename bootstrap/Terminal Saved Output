@@ -1,0 +1,200 @@
+Last login: Fri Dec 11 01:44:13 on ttys001
+Constatine-Pro:Desktop shanawar$ pwd
+/Users/shanawar/Desktop
+Constatine-Pro:Desktop shanawar$ ls
+Android 4 (experimental)
+Android-a_programmers_guide.pdf
+AngularJS
+Applications
+Apps-Modulus
+Articles
+Beyond Polaris Organization
+BeyondPolaris
+Bootstrap HTML5 Responsive Templates
+Chrome OS
+Code
+Code-03
+CodeAcademy_projects
+Complete_Web_Dev
+CreativeMarket
+Data_Structure_Book
+Designs
+Fundamentals of Python Programming (2015).pdf
+Google-Maps
+GoogleCode
+Google_one-page_SEO_Guide.pdf
+GruntJs
+GruntTest
+Gun_AK47_Machine_Gun_1.mp3
+HerokuApps
+Icon?
+Install Adobe Acrobat Reader DC.app
+JAVASCRIPT
+JAVASCRIPT-JQUERY
+JulyNodeExpress
+MOOSEJAW
+Mamba.jpg
+Mean-Machine
+Mobile HTML5 (2014).pdf
+Modelling
+Mongo
+MongoDB-manual.pdf
+Nodejs
+NovTerminal.txt
+Official-Projects
+PHPFORM-LATEST
+Plural-MEAN-video
+Pro-Commands.txt
+Professional_Dev
+Quotation-Aldous-Huxley-Experience-is-not-what-happens-to-you-it-s-what-13-99-88.jpg
+Readdd
+SAAS
+Screenshots
+Shaharyar
+Speed1.0x.webloc
+T3-Code
+Terminal Saved Output
+Tut-Code
+Tutorials2
+Tutorials3
+UserManual.pdf
+VirtualBox_Uninstall.tool
+Windows 10
+Wireframes
+WirelessDiagnostics_C02KF1KMFFT1_2015-09-09_04.07.13.tar.gz
+Youtube_lessons
+black-mamba.jpg
+code-02
+earth.gif
+edX
+flyer.pages
+html-css-prj_innovation-cloud.webloc
+index.html
+jQuery
+jquery.js
+ls.txt
+mamba.html
+mamba_files
+object.js
+package.son
+pythoncrawler
+s_business
+search-engine-optimization-starter-guide.pdf
+sublimeThemes
+testDir
+testServer.js
+udemy-scratch
+underconstructiongif.gif
+Constatine-Pro:Desktop shanawar$ cd /
+Constatine-Pro:/ shanawar$ pwd
+/
+Constatine-Pro:/ shanawar$ ls
+Applications              bin                       net
+Library                   cores                     private
+Network                   data                      sbin
+Payloads                  dev                       tmp
+System                    etc                       usr
+Users                     home                      var
+Volumes                   installer.failurerequests
+Constatine-Pro:/ shanawar$ cd Applications/
+Constatine-Pro:Applications shanawar$ ls
+AMPPS                               Keynote.app
+Adobe                               Launchpad.app
+Adobe Acrobat Reader DC.app         MPlayerX.app
+Adobe Acrobat X Pro                 Mail.app
+Adobe Bridge CS6                    Maps.app
+Adobe Creative Cloud                Messages.app
+Adobe Dreamweaver CC 2015           Microsoft Communicator.app
+Adobe Extension Manager CS6         Microsoft Messenger.app
+Adobe InDesign CS6                  Microsoft Office 2011
+Adobe Media Encoder CS6             Mission Control.app
+Adobe Muse CC 2015                  Notes.app
+Adobe Photoshop CS6                 Numbers.app
+Aimersoft Total Media Converter.app OS X El Capitan.appdownload
+Android Studio.app                  Pages.app
+Aperture.app                        Parallels Desktop.app
+App Store.app                       Photo Booth.app
+App for Facebook.app                Photos.app
+Aptana Studio 3                     Preview.app
+Automator.app                       QuickTime Player.app
+Brackets.app                        RAR Extractor Free.app
+Calculator.app                      Reminders.app
+Calendar.app                        Remote Desktop Connection.app
+Canopy.app                          Safari.app
+Chess.app                           Skype.app
+Coda 2.app                          Stickies.app
+Contacts.app                        Sublime Text.app
+Cyberduck.app                       System Preferences.app
+DPS App Builder.app                 TextEdit.app
+DVD Player.app                      TextWrangler.app
+Dashboard.app                       Time Machine.app
+Dictionary.app                      Typist.app
+Divvy [k]                           Upwork.app
+Divvy.app                           Utilities
+Enthought Canopy (64-bit)           VLC.app
+Evernote.app                        VMware Fusion.app
+FaceTime.app                        VirtualBox.app
+Font Book.app                       XAMPP
+Game Center.app                     iBooks.app
+GarageBand.app                      iCursor.appdownload
+GitHub Desktop.app                  iDVD.app
+Google Chrome.app                   iTunes.app
+Image Capture.app                   uTorrent.app
+KeyGen.app
+Constatine-Pro:Applications shanawar$ cd XAMPP/
+Constatine-Pro:XAMPP shanawar$ ls
+bin             etc             logs            uninstall.app
+cgi-bin         htdocs          manager-osx.app xamppfiles
+Constatine-Pro:XAMPP shanawar$ subl htdocs
+Constatine-Pro:XAMPP shanawar$ ls
+bin             etc             logs            uninstall.app
+cgi-bin         htdocs          manager-osx.app xamppfiles
+Constatine-Pro:XAMPP shanawar$ pwd
+/Applications/XAMPP
+Constatine-Pro:XAMPP shanawar$ pwd
+/Applications/XAMPP
+Constatine-Pro:XAMPP shanawar$ subl .
+Constatine-Pro:XAMPP shanawar$ ls
+bin             etc             logs            uninstall.app
+cgi-bin         htdocs          manager-osx.app xamppfiles
+Constatine-Pro:XAMPP shanawar$ pwd
+/Applications/XAMPP
+Constatine-Pro:XAMPP shanawar$ cd htdocs
+Constatine-Pro:htdocs shanawar$ ls
+applications.html       dashboard               getpost                 practice
+bitnami.css             favicon.ico             img                     webalizer
+bootstrap-form          functions_arguments.php index.php               websql
+Constatine-Pro:htdocs shanawar$ pwd
+/Applications/XAMPP/htdocs
+Constatine-Pro:htdocs shanawar$ pwd
+/Applications/XAMPP/htdocs
+Constatine-Pro:htdocs shanawar$ ls
+applications.html       dashboard               getpost                 practice
+bitnami.css             favicon.ico             img                     webalizer
+bootstrap-form          functions_arguments.php index.php               websql
+Constatine-Pro:htdocs shanawar$ cd practice/
+Constatine-Pro:practice shanawar$ ls
+arrays.php index.php
+Constatine-Pro:practice shanawar$ mkdir ls
+Constatine-Pro:practice shanawar$ rm ls
+rm: ls: is a directory
+Constatine-Pro:practice shanawar$ ls
+arrays.php index.php  ls
+Constatine-Pro:practice shanawar$ rm -R ls
+Constatine-Pro:practice shanawar$ ls
+arrays.php index.php
+Constatine-Pro:practice shanawar$ mkdir Videos15
+Constatine-Pro:practice shanawar$ mv *.php Videos15/
+Constatine-Pro:practice shanawar$ ls
+Videos15
+Constatine-Pro:practice shanawar$ mkdir Videos
+Constatine-Pro:practice shanawar$ cd Videos
+Constatine-Pro:Videos shanawar$ ls
+Constatine-Pro:Videos shanawar$ subl 
+Constatine-Pro:Videos shanawar$ subl ifelse.php
+Constatine-Pro:Videos shanawar$ subl loop.php
+Constatine-Pro:Videos shanawar$ node
+> var i = 1;
+undefined
+> while (i <= 100) {
+... console.log(i + ". Yo!");
